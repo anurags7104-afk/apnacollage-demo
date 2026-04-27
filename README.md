@@ -1,2 +1,3 @@
 # apnacollage-demo
-this is my first get repository
+This is my first get repository.
+Author - Anurag Singh 
